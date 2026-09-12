@@ -12,7 +12,7 @@
 
 Use the Beyond Automation contact page:
 
-https://beyondautomation.io/contact
+mailto:contact@beyondautomation.io
 
 Include:
 
