@@ -39,4 +39,4 @@ Reports can contain sensitive infrastructure information. Users are responsible 
 
 ## Contact
 
-Privacy questions may be submitted through https://beyondautomation.io/contact.
+Privacy questions may be submitted through mailto:contact@beyondautomation.io.
