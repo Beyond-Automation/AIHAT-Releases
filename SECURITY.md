@@ -13,7 +13,7 @@ Only installers obtained from this official Beyond Automation release repository
 
 Do not report security vulnerabilities through public GitHub issues.
 
-Use GitHub private vulnerability reporting when available. If it is unavailable, use the security contact at https://beyondautomation.io/contact and clearly mark the message **AIHAT Security Report**.
+Use GitHub private vulnerability reporting when available. If it is unavailable, use the security contact at mailto:contact@beyondautomation.io and clearly mark the message **AIHAT Security Report**.
 
 Include:
 
