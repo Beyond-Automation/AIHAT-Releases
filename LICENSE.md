@@ -39,4 +39,4 @@ This license terminates automatically if you violate its terms. Upon termination
 
 ## Contact
 
-Licensing questions may be submitted through https://beyondautomation.io/contact.
+Licensing questions may be submitted through mailto:contact@beyondautomation.io.
