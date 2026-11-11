@@ -1,4 +1,10 @@
-# AIHAT — Infrastructure Health Audit Toolkit
+<div align="center">
+
+<img src="assets/aihat-banner.png" alt="AIHAT -- Infrastructure Health Audit Toolkit" width="100%" />
+
+</div>
+
+# AIHAT -- Infrastructure Health Audit Toolkit
 
 [![Version](https://img.shields.io/badge/version-1.2.0-22b8f0)](https://github.com/Beyond-Automation/AIHAT-Releases/releases/tag/v1.2.0)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D4)](https://beyondautomation.io/aihat)
@@ -81,6 +87,6 @@ AIHAT provides informational infrastructure-health findings. Results are not a c
 
 ---
 
-**Beyond Automation** · [Website](https://beyondautomation.io) · [LinkedIn](https://www.linkedin.com/company/beyond-automation-io)
+**Beyond Automation** -- [Website](https://beyondautomation.io) -- [YouTube](https://www.youtube.com/@BeyondAutomationIT) -- [LinkedIn](https://www.linkedin.com/company/beyond-automation-io)
 
-Public proof. Private engineering core.
+Build useful tools. Share what we learn.
